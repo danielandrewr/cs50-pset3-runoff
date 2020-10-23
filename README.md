@@ -1,2 +1,2 @@
 # cs50-pset3-runoff
-# Runoff by Daniel Andrew
+Runoff by Daniel Andrew
